@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="discomplexity">
+      <UniqueIdentifier>{313f0607-23ce-4f09-add4-4cb22166a034}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="discomplexity\homeworld2">
+      <UniqueIdentifier>{2c8ca57c-5054-4c41-9a5a-e84756124857}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\discomplexity\homeworld2\chunk.cc">
+      <Filter>discomplexity\homeworld2</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\discomplexity\homeworld2\chunk.hh">
+      <Filter>discomplexity\homeworld2</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discomplexity.hh" />
+    <ClInclude Include="src\discomplexity\string.hh">
+      <Filter>discomplexity</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discomplexity\endian.hh">
+      <Filter>discomplexity</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

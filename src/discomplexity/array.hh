@@ -1,0 +1,4 @@
+#ifndef   __DISCOMPLEXITY__ARRAY__HH__
+#define   __DISCOMPLEXITY__ARRAY__HH__
+
+#endif // __DISCOMPLEXITY__ARRAY__HH__
