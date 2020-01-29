@@ -23,6 +23,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\discomplexity.hh" />
+    <ClInclude Include="src\discomplexity\array.hh" />
     <ClInclude Include="src\discomplexity\endian.hh" />
     <ClInclude Include="src\discomplexity\homeworld2\chunk.hh" />
     <ClInclude Include="src\discomplexity\string.hh" />

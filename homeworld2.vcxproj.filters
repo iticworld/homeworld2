@@ -24,5 +24,8 @@
     <ClInclude Include="src\discomplexity\endian.hh">
       <Filter>discomplexity</Filter>
     </ClInclude>
+    <ClInclude Include="src\discomplexity\array.hh">
+      <Filter>discomplexity</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
